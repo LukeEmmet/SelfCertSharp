@@ -8,6 +8,7 @@
 
 using System;
 using Pluralsight.Crypto;
+using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 
 namespace GenSelfSignedCert
